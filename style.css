@@ -2,3 +2,15 @@ body {
     color: red;
     background-color:#EEE5E9;
 }
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.audio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
