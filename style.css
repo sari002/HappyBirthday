@@ -1,10 +1,19 @@
 body {
-    color: red;
-    background-color:#EEE5E9;
+    color: #02020B;
+    /*background-color:#EEE5E9;
+    background-color: #A9D3FF; */
+    background-color: #D6EEFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
 }
 
 main {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
